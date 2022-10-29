@@ -1,1 +1,1 @@
-# Solution to tasks on Python - Almost a circle
+project 0x0C-python-almost_a_circle  Solutions
